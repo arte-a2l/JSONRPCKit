@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "result",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/arte-inc/Result",
+      "state" : {
+        "branch" : "arm64",
+        "revision" : "7d76e7d939365be38cb77577198620b3ac4bab42"
+      }
+    }
+  ],
+  "version" : 2
+}
